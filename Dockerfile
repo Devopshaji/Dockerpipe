@@ -1,4 +1,4 @@
 FROM UBUNTU
-RUN apt-get update -y
-RUN apt-get install git -y
-RUN apt-get install vim -y
+RUN apt update -y
+RUN apt install git -y
+
